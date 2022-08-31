@@ -5,3 +5,6 @@ Let's work together to organize a workshop on machine learning in healthcare
 電子カルテに蓄えられたデータを使って、機械学習をやってみたい方のためのワークショップを開催することを目指すための活動です。
 
 
+- [書籍の紹介](/Books)
+- [書籍の紹介](./Books)
+- [書籍の紹介](Books)
